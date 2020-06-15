@@ -6,6 +6,8 @@ creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://github.com/ther1987sz/ther1987sz.github.io/"
 
+markdown:kramdown
+
 permalink: /:year/:month/:title/
 
 # Format
@@ -30,8 +32,8 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: vno-jekyll
+#comment:
+    #disqus: vno-jekyll
     # duoshuo: 
     
 # Social
