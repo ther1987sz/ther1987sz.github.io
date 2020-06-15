@@ -1,6 +1,6 @@
 
 
-## Typora入门
+## Typora
 
 ### 常用快捷键
 
@@ -8,7 +8,9 @@
 
 - *倾斜*：Ctrl + I
 
-- 插入链接：Ctrl + K       [www.github.com]()
+- 插入链接：Ctrl + K        
+
+     [www.github.com]()
 
 - 代码块：```+ Enter   并在后面选择一个语言名称即可语法高亮
 
@@ -54,7 +56,6 @@
   - 多行无序列表2
     - 多行无序列表3
       - 多行无序列表4
-      - 多行无序列表5
 
 - 撤销：Ctrl + Z
 
@@ -66,11 +67,13 @@
 
 - ~~删除线~~：Alt + Shift + 5
 
+  
+
 ### 块元素
 
 #### 换行符
 
-回车即可创建新段落
+> 回车即可创建新段落
 
 #### 标题级别
 
@@ -96,7 +99,7 @@
 
 #### 表
 
-输入 |表头1|表头2|+ Enter，即可将创建一个包含两列的表，然后就像操作Word文档一样设置表格即可
+> 输入 |表头1|表头2|+ Enter，即可将创建一个包含两列的表，然后就像操作Word文档一样设置表格即可
 
 | First Header | Second Header |
 | ------------ | ------------- |
@@ -134,11 +137,7 @@ Typora支持[YAML Front Matter](https://jekyllrb.com/docs/front-matter/),在文�
 
 #### 超链接
 
-> Typora允许用<括号括起来>，自动链接标准网址。<www.pseduos.site>
->
-> 行内式链接    [文字]：网址（中间是英文的冒号）
->
-> [百度]: https://www.baidu.com/
+> Typora允许用<括号括起来>，自动链接标准网址。<www.baidu.com>
 >
 > 参考式链接   [文字] [网址]（中间无空格）
 >
@@ -153,12 +152,6 @@ Typora支持[YAML Front Matter](https://jekyllrb.com/docs/front-matter/),在文�
 >![显示的文字](/path/to/img.jpg "图片标题")
 
 
-
-![blockchain](https://upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/550/format/webp "blockchain")
-
-
-
-![dslr-camera-falt](E:\pics\dslr-camera-flat-lay-821652.jpg "dslr-camera-falt")
 
 #### 倾斜
 
@@ -210,13 +203,12 @@ Typora支持[YAML Front Matter](https://jekyllrb.com/docs/front-matter/),在文�
 
 >：smile：(英文的冒号)
 
-:grinning:
+:smile:
 
 #### 高亮
 
-> 左右两边加==，效果如下：（需在设置中打开该功能）
+> 左右两边加==（需在设置中打开该功能）
 >
-> ==helloworld==
 
 #### 设置文字颜色/大小/字体属性
 
@@ -252,9 +244,9 @@ H~2~O (需在设置中打开该功能)
 
 > < video src=”xxx.mp4” />
 
-<video src="E:\pics\1.mp4"></video>
 
-### 特殊符号
+
+#### 特殊符号
 
 |  &copy；  |  &copy;  |   版权   |
 | :-------: | :------: | :------: |
