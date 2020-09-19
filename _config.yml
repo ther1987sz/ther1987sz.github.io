@@ -6,7 +6,7 @@ creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://github.com/ther1987sz/ther1987sz.github.io/"
 
-markdown:kramdown
+markdown: kramdown
 
 permalink: /:year/:month/:title/
 
