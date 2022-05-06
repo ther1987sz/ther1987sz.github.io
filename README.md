@@ -1,1 +1,1 @@
-# pseudos.site
+This repository is for blogs.
